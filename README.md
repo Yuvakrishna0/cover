@@ -9,10 +9,13 @@ Clone the git hub repostiory and create a djangom admin interface.
 ### Step 2:
 Write html and css code for designing book cover page and execute them
 ## Code:
-'''
+
+```
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
+
          <meta name="viewport" 
          content="width=device-width, initial-scale=1.0">
          <style>
@@ -126,7 +129,7 @@ Write html and css code for designing book cover page and execute them
     </body>
 </html>
 
-'''
+```
 
 ## Output:
 ![OUTPUT](./outputEX6.png)
